@@ -31,9 +31,10 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.8.1.102",
+    "IDEVersion": "2023.11.0.121",
   },
   "resources": [
+    {"id":{"name":"whatever","path":"objects/whatever/whatever.yy",},},
     {"id":{"name":"test","path":"objects/test/test.yy",},},
     {"id":{"name":"thing","path":"objects/thing/thing.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
