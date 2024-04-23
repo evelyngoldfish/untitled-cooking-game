@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "whatever",
+  "name": "o_counter",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -25,7 +25,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "s_counter",
+    "path": "sprites/s_counter/s_counter.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

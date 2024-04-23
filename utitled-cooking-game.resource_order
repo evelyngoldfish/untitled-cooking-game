@@ -15,8 +15,12 @@
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+    {"name":"placeholder","order":1,"path":"folders/Sprites/placeholder.yy",},
   ],
   "ResourceOrderSettings": [
-    {"name":"thing","order":1,"path":"objects/thing/thing.yy",},
+    {"name":"o_counter","order":4,"path":"objects/o_counter/o_counter.yy",},
+    {"name":"o_game","order":2,"path":"objects/o_game/o_game.yy",},
+    {"name":"o_customer","order":3,"path":"objects/o_customer/o_customer.yy",},
+    {"name":"s_counter","order":1,"path":"sprites/s_counter/s_counter.yy",},
   ],
 }

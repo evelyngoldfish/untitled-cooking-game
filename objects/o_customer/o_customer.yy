@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "thing",
+  "name": "o_customer",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -25,7 +25,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "s_npc_placeholder",
+    "path": "sprites/s_npc_placeholder/s_npc_placeholder.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }
