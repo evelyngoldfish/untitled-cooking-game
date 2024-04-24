@@ -1,0 +1,1 @@
+state = states.player_choose;
