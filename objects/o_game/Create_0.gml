@@ -5,7 +5,7 @@ global.time_hour = 9;
 global.time_minute = "00";
 
 // player inventory
-global.inventory = ["empty", "empty"];
+global.inventory = [];
 
 // player other
 global.max_actions = 3;
